@@ -19,7 +19,7 @@ dependencies {
     api(platform("org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.3.8"))
     api(platform("org.apache.maven:maven:3.6.3"))
     api(platform("io.grpc:grpc-bom:1.31.1"))
-    api(platform("com.google.protobuf:protobuf-bom:3.13.0"))
+    api(platform("com.google.protobuf:protobuf-bom:3.15.3"))
     api(platform("org.apache.rocketmq:rocketmq-all:4.8.0"))
 
     constraints {
